@@ -1,0 +1,12 @@
+i have to make a file system in the app or a browse botton to find the pdf that i want to 
+turn it into a pdf
+maybe i have to add a simple db  system to the app 
+
+added the tts function , now i need to triger it 
+i can use toast to return text as popups 
+
+
+i got to add the functionality of selecting the name of mp3
+
+when the extracing and the converting process start i will add a kv interface 
+something like a gif or a text ... or a motion
